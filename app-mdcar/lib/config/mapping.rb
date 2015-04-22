@@ -14,4 +14,5 @@ collection :cars do
   attribute :name,        String
   attribute :seri,        Integer
   attribute :description, String
+  attribute :image_url,   String
 end
